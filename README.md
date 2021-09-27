@@ -1,6 +1,7 @@
 # daurge-fff
 ____
 ![аватарка](https://c.radikal.ru/c27/2105/ba/21aeaf3e077e.jpg "daurge-fff")
+
 • 👋 Hi, I'm *@daurge-fff*
 • 👀 I am interested in IT and programming (Я интересуюсь IT и программированием).
 • 🌱 I am currently working as a freelancer (Сейчас я работаю фрилансером)...
