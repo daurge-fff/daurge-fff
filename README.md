@@ -3,9 +3,13 @@ ____
 ![аватарка](https://c.radikal.ru/c27/2105/ba/21aeaf3e077e.jpg "daurge-fff")
 
 • 👋 Hi, I'm *@daurge-fff*
+
 • 👀 I am interested in IT and programming (Я интересуюсь IT и программированием).
+
 • 🌱 I am currently working as a freelancer (Сейчас я работаю фрилансером)...
+
 • 💞 ️ I want to learn endlessly (Я хотел бы учиться бесконечно)!
+
 • 🔫 My website-business card (Мой сайт-визитка) - https://daurge.ru.
 
 - 📫 You can write to me in [Discord](https://discord.com/users/daurge_fff#3477), [Telegram](t.me/daurge_fff).
