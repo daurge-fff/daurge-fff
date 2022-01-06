@@ -1,5 +1,5 @@
 ____
-![аватарка](https://c.radikal.ru/c27/2105/ba/21aeaf3e077e.jpg "daurge-fff")
+![main photo](https://b.radikal.ru/b19/2201/b1/4938bd8909f5.jpg "daurge-fff")
 
 [![Visits Badge](https://badges.pufler.dev/visits/daurge-fff/daurge-fff)](https://github.com/daurge-fff)
 [![Repos Badge](https://badges.pufler.dev/repos/daurge-fff)](https://github.com/daurge-fff?tab=repositories)
