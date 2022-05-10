@@ -23,7 +23,7 @@ I'm **3** years in IT. During this time I had experience with:
   **![](https://img.shields.io/badge/Python%203-2%20Years-informational?style=flat&logo=python&logoColor=FECC00&color=3776AB)** 💰    
   **![](https://img.shields.io/badge/PHP-1%20Year-informational?style=flat&logo=php&logoColor=E34F26&color=E34F26)**      
   **![](https://img.shields.io/badge/HTML-1%20Year-informational?style=flat&logo=html5&logoColor=E34F26&color=E34F26)** 💰    
-  **![](https://img.shields.io/badge/CSS-1%20Year-informational?style=flat&logo=css3&logoColor=1572B6&color=1572B6)**      
+  **![](https://img.shields.io/badge/CSS-1%20Year-informational?style=flat&logo=css3&logoColor=1572B6&color=1572B6)** 💰      
   **![](https://img.shields.io/badge/React-2%20Months-informational?style=flat&logo=react&logoColor=61DAFB&color=61DAFB)**      
 
 Also I have **3** years of commercial experience with technologies marked «💰».  
