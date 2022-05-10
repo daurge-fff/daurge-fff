@@ -1,5 +1,5 @@
 ____
-![main photo](https://daurge.ru/img/banner.jpg "daurge-fff")
+![main photo](http://daurge.ru/img/banner.jpg "daurge-fff")
 
 [![Visits Badge](https://badges.pufler.dev/visits/daurge-fff/daurge-fff)](https://github.com/daurge-fff)
 [![Repos Badge](https://badges.pufler.dev/repos/daurge-fff)](https://github.com/daurge-fff?tab=repositories)
