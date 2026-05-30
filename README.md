@@ -1,65 +1,269 @@
-____
-![main photo](http://daurge.ru/img/banner.jpg "daurge-fff")
+<div align="center">
 
-[![Repos Badge](https://badges.pufler.dev/repos/daurge-fff)](https://github.com/daurge-fff?tab=repositories)
-<a href="https://t.me/daurge_old">![](https://img.shields.io/badge/Telegram-daurge_old-informational?style=flat&logo=telegram&logoColor=26A5E4&color=26A5E4)</a>
-## About me 👨‍💻
-German Andreevich Vityaz is the author of the information and didactic manual "Russian Military Clothing", a volunteer, a public figure, a developer of bots based on Telegram, VK, Discord and Fullstack developer. Since 2015, he has been actively cooperating with the Public Organization " Memory of the Heart. As part of the celebration of the Victory anniversary, together with the family, a presentation was created "Khatyn. The Burning Heart of the Great War".
+<img src="https://i.postimg.cc/d38fPsYM/photo-2026-04-25-18-32-14-round.png" width="30%"/>
 
-Since 2019, Vityaz Herman has been actively cooperating with the Russian Military Historical Society, for which he has been repeatedly awarded diplomas and commendations.
-At the end of 2019, German Andreevich became the winner of the competition of regional projects organized by the Russian Military Historical Society (Moscow), having come up with an information and didactic manual-a paper game "Dress the Knight". The project presents warriors of all periods of the existence of the Russian state-from ancient Russia to the victorious 1945.
-  
-## Education
-I finished **Java&Android** class at **<a href="https://practicum.yandex.ru/">Yandex.Practicum</a>** and Python&Dev class at **<a href="https://academy.yandex.ru/lyceum/">Yandex Lyceum</a>**.
-I am currently studying **JS**.
+# German Vitiaz
 
-## Skills 
-I'm **3** years in IT. During this time I had experience with:  
-  **![](https://img.shields.io/badge/PostgreSQL-2%20Years-informational?style=flat&logo=postgresql&logoColor=white)** 💰  
-  **![](https://img.shields.io/badge/Java-2%20Years-informational?style=flat&logo=java&logoColor=F7DF1E&color=F7DF1E)**     
-  **![](https://img.shields.io/badge/Node.JS-2%20Years-informational?style=flat&logo=node.js&logoColor=339933&color=339933)** 💰   
-  **![](https://img.shields.io/badge/MongoDB-2%20Years-informational?style=flat&logo=mongodb&logoColor=47A248&color=47A248)** 💰     
-  **![](https://img.shields.io/badge/Python%203-4%20Years-informational?style=flat&logo=python&logoColor=FECC00&color=3776AB)** 💰    
-  **![](https://img.shields.io/badge/PHP-1%20Year-informational?style=flat&logo=php&logoColor=E34F26&color=E34F26)**      
-  **![](https://img.shields.io/badge/HTML-2%20Years-informational?style=flat&logo=html5&logoColor=E34F26&color=E34F26)** 💰    
-  **![](https://img.shields.io/badge/CSS-2%20Years-informational?style=flat&logo=css3&logoColor=1572B6&color=1572B6)** 💰      
-  **![](https://img.shields.io/badge/React-6%20Months-informational?style=flat&logo=react&logoColor=61DAFB&color=61DAFB)**      
+### Founder of Code & Learn • Programming Educator • Digital Nomad
 
-Also I have **3** years of commercial experience with technologies marked «💰».  
-  
-I know **russian** (native), **german** (intermediate) and **english** (intermediate) languages. My english knowlenge allows me to read technical docs, use search engines and talk with other developers in english-talking communities without any problems.
-
-## Last Open Projects
-
-<br>
-
-<a href="https://github.com/daurge-fff/test_messenger">
-  <img align="center" style="margin:500px" src="https://github-readme-stats.vercel.app/api/pin/?username=daurge-fff&repo=test_messenger&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<p>
+<a href="https://clearn.top">
+<img src="https://img.shields.io/badge/Code%20%26%20Learn-Founder-success?style=for-the-badge">
 </a>
 
-<br>  
-
-## GitHub Stats
-
-<br>
-
-<a href="https://github.com/daurge-fff">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daurge-fff&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://t.me/daurge">
+<img src="https://img.shields.io/badge/Telegram-@daurge-26A5E4?style=for-the-badge&logo=telegram">
 </a>
 
+<img src="https://img.shields.io/badge/Students%20Taught-500%2B-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Countries-13-blue?style=for-the-badge">
+
+</p>
+
+</div>
+
+---
+
+## 👋 About
+
+Founder of **Code & Learn**, an online programming school focused on practical project-based learning.
+
+Over the past few years I've taught programming in public schools, educational centers and private courses, worked as a senior camp counselor, built my own online school and taught more than 500 students.
+
+Today I teach remotely from Vietnam while developing new courses in Python, Roblox Studio and AI.
+
+---
+
+## 📊 At a Glance
+
+|                              |                      |
+| ---------------------------- | -------------------- |
+| 👨‍🎓 Students Taught        | 500+                 |
+| 🌍 Countries Visited         | 13                   |
+| 🏫 Educational Organizations | 4                    |
+| 🚀 Founder                   | Code & Learn         |
+| 👨‍🏫 Current Role           | Programming Educator |
+| 📍 Location                  | Vietnam              |
+
+---
+
+## 💼 Experience
+
+### 🚀 Founder & CEO • Code & Learn
+
+Building an online programming school where students learn by creating real projects instead of memorizing theory.
+
+**Courses:**
+
+* Roblox Studio (Lua)
+* Python Development
+* Scratch
+* Scratch Junior
+* Minecraft Education
+* AI Fundamentals
+
+### 🏫 Computer Science Teacher
+
+**MAOU School №137, Chelyabinsk**
+
+September 2024 − January 2025
+
+Taught Computer Science and Programming to grades 8–11.
+
+### 💻 Programming Instructor
+
+**Rocket Tech School**
+
+September 2024 − July 2025
+
+Online programming education for children and teenagers.
+
+### 💻 Programming Instructor
+
+**KIBERone**
+
+2024 − 2025
+
+Project-based technology education.
+
+### 🏕️ Senior Camp Counselor
+
+**Children's Camp Sapphire**
+
+Summer 2024
+
+Responsible for counselor recruitment, team coordination, daily schedules, session planning and administrative operations.
+
+---
+
+## 🌍 Journey
+
+<table>
+<tr>
+<td align="center">🇦🇧<br>Abkhazia</td>
+<td align="center">🇬🇪<br>Georgia</td>
+<td align="center">🇦🇲<br>Armenia</td>
+<td align="center">🇰🇿<br>Kazakhstan</td>
+<td align="center">🇧🇦<br>Bosnia</td>
+<td align="center">🇲🇪<br>Montenegro</td>
+<td align="center">🇮🇳<br>India</td>
+</tr>
+
+<tr>
+<td align="center">🇸🇬<br>Singapore</td>
+<td align="center">🇹🇭<br>Thailand</td>
+<td align="center">🇻🇳<br>Vietnam</td>
+<td align="center">🇩🇪<br>Germany</td>
+<td align="center">🇹🇷<br>Turkey</td>
+<td align="center">🇪🇬<br>Egypt</td>
+<td align="center">❤️<br>Favorite: Vietnam</td>
+</tr>
+</table>
+
+---
+
+## 📸 Life Beyond Code
+
+<p align="center">
+<img width="31%" src="https://i.postimg.cc/0yjWkdGp/photo-2026-05-30-17-25-24.jpg">
+<img width="31%" src="https://i.postimg.cc/htvyDb81/photo-2026-05-30-17-25-15.jpg">
+<img width="31%" src="https://i.postimg.cc/L85C9BkZ/photo-2026-05-30-17-25-19.jpg">
+</p>
+
+---
+
+## 🎓 Student Achievements
+
+<p align="center">
+<img width="31%" src="https://i.postimg.cc/9QLps4v7/Certificate-Yakhnina-Sofia-1.png">
+<img width="31%" src="https://i.postimg.cc/N0TKmS7h/Certificate-Ivan-Zabrodin-1.png">
+<img width="31%" src="https://i.postimg.cc/gjcr9J9P/Certificate-Mikhail-Sukharev-1.png">
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,lua,js,ts,java,nodejs,react,mongodb,postgresql,docker,linux,git,vscode"/>
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=daurge-fff&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daurge-fff&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
 <br>
 
-<a href="https://github.com/daurge-fff">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=daurge-fff&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="daurge-fff GitHub Stats" />
+
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daurge-fff&theme=github_dark"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daurge-fff&theme=github-dark&hide_border=true"/>
+
+</div>
+
+<p align="center">
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daurge-fff&theme=github_dark"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daurge-fff&theme=github_dark"/>
+</p>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daurge-fff&theme=github-dark"/>
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+### University of Helsinki & MinnaLearn
+
+🇫🇮 **Elements of AI**
+
+Completed one of the world's most popular introductory AI courses created by the University of Helsinki and MinnaLearn. The course covers AI fundamentals, machine learning, neural networks, real-world applications and the societal impact of artificial intelligence.
+
+📊 Progress: **92%**
+
+### University of Helsinki & Reaktor
+
+🇫🇮 **Building AI**
+
+Advanced continuation of Elements of AI focused on practical machine learning, neural networks and building AI systems. The course introduces how AI models are created, trained and applied to solve real-world problems.
+
+📊 Progress: **97%**
+
+### Yandex Lyceum
+
+Python Development Program
+
+Completed a multi-year Python development program focused on algorithms, software development and practical programming.
+
+### Yandex Practicum
+
+Java & Android Development
+
+Studied Android application development and Java fundamentals.
+
+---
+
+## 🎯 Why I Teach
+
+Most people don't struggle with programming because it's difficult. They struggle because they're taught syntax before they're given a reason to care.
+
+My goal is simple:
+
+Help students build something they're proud of.
+
+Everything else follows.
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="https://clearn.top">
+<img src="https://img.shields.io/badge/Website-clearn.top-success?style=for-the-badge">
 </a>
 
-<br>
+<a href="https://t.me/daurge">
+<img src="https://img.shields.io/badge/Telegram-@daurge-26A5E4?style=for-the-badge&logo=telegram">
+</a>
+
+<a href="mailto:daurge@duck.com">
+<img src="https://img.shields.io/badge/Email-duck.com-red?style=for-the-badge">
+</a>
+
+</div>
+
 <br>
 
+<div align="center">
 
-## Contact
-I am available from **10:00 AM** to **10:00 PM** UTC+3. Write or call me on:  
- ► Telegram: <a href="https://t.me/daurge">@daurge</a> (Work only)  
- ► Telegram: <a href="https://t.me/daurge_old">@daurge_old</a> (Non-work only)  
-📧 E-Mail: <a href="mailto:daurge_fff@mail.ru">daurge_fff@mail.ru</a>  
-📱 Phone: `+7 (995) 460-09-06`  
+<img width="120" src="https://i.postimg.cc/Dzd22TPm/logo-round.png">
+
+### Code & Learn
+
+Learning by Building.
+
+</div>
